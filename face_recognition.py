@@ -98,4 +98,4 @@ def recognize_pic(pic_file):
 
 if __name__ == '__main__':
     # train_model()
-    pre_name, probability = recognize_pic("test3.jpg")
+    pre_name, probability = recognize_pic("test2.jpg")
